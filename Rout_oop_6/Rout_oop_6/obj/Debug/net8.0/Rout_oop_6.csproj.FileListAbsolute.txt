@@ -1,0 +1,14 @@
+C:\Users\star bussiness\Desktop\net\Route\Rout_oop_6\Rout_oop_6\obj\Debug\net8.0\Rout_oop_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star bussiness\Desktop\net\Route\Rout_oop_6\Rout_oop_6\obj\Debug\net8.0\Rout_oop_6.AssemblyInfoInputs.cache
+C:\Users\star bussiness\Desktop\net\Route\Rout_oop_6\Rout_oop_6\obj\Debug\net8.0\Rout_oop_6.AssemblyInfo.cs
+C:\Users\star bussiness\Desktop\net\Route\Rout_oop_6\Rout_oop_6\obj\Debug\net8.0\Rout_oop_6.csproj.CoreCompileInputs.cache
+C:\Users\star bussiness\Desktop\net\Route\Rout_oop_6\Rout_oop_6\bin\Debug\net8.0\Rout_oop_6.exe
+C:\Users\star bussiness\Desktop\net\Route\Rout_oop_6\Rout_oop_6\bin\Debug\net8.0\Rout_oop_6.deps.json
+C:\Users\star bussiness\Desktop\net\Route\Rout_oop_6\Rout_oop_6\bin\Debug\net8.0\Rout_oop_6.runtimeconfig.json
+C:\Users\star bussiness\Desktop\net\Route\Rout_oop_6\Rout_oop_6\bin\Debug\net8.0\Rout_oop_6.dll
+C:\Users\star bussiness\Desktop\net\Route\Rout_oop_6\Rout_oop_6\bin\Debug\net8.0\Rout_oop_6.pdb
+C:\Users\star bussiness\Desktop\net\Route\Rout_oop_6\Rout_oop_6\obj\Debug\net8.0\Rout_oop_6.dll
+C:\Users\star bussiness\Desktop\net\Route\Rout_oop_6\Rout_oop_6\obj\Debug\net8.0\refint\Rout_oop_6.dll
+C:\Users\star bussiness\Desktop\net\Route\Rout_oop_6\Rout_oop_6\obj\Debug\net8.0\Rout_oop_6.pdb
+C:\Users\star bussiness\Desktop\net\Route\Rout_oop_6\Rout_oop_6\obj\Debug\net8.0\Rout_oop_6.genruntimeconfig.cache
+C:\Users\star bussiness\Desktop\net\Route\Rout_oop_6\Rout_oop_6\obj\Debug\net8.0\ref\Rout_oop_6.dll
