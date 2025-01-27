@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteAdvan_2", "RouteAdvan_2\RouteAdvan_2.csproj", "{8D468989-CC1B-48C0-AE58-46E2AC72C88E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D468989-CC1B-48C0-AE58-46E2AC72C88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D468989-CC1B-48C0-AE58-46E2AC72C88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D468989-CC1B-48C0-AE58-46E2AC72C88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D468989-CC1B-48C0-AE58-46E2AC72C88E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB3C2C99-1DFB-4780-B8E2-70CFE84ECAB1}
+	EndGlobalSection
+EndGlobal
