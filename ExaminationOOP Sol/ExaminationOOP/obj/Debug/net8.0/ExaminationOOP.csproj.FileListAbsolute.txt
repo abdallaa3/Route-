@@ -1,0 +1,14 @@
+C:\Users\Khale\Documents\Desktop\Route\Exams\ExaminationOOP Sol\ExaminationOOP\bin\Debug\net8.0\ExaminationOOP.exe
+C:\Users\Khale\Documents\Desktop\Route\Exams\ExaminationOOP Sol\ExaminationOOP\bin\Debug\net8.0\ExaminationOOP.deps.json
+C:\Users\Khale\Documents\Desktop\Route\Exams\ExaminationOOP Sol\ExaminationOOP\bin\Debug\net8.0\ExaminationOOP.runtimeconfig.json
+C:\Users\Khale\Documents\Desktop\Route\Exams\ExaminationOOP Sol\ExaminationOOP\bin\Debug\net8.0\ExaminationOOP.dll
+C:\Users\Khale\Documents\Desktop\Route\Exams\ExaminationOOP Sol\ExaminationOOP\bin\Debug\net8.0\ExaminationOOP.pdb
+C:\Users\Khale\Documents\Desktop\Route\Exams\ExaminationOOP Sol\ExaminationOOP\obj\Debug\net8.0\ExaminationOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khale\Documents\Desktop\Route\Exams\ExaminationOOP Sol\ExaminationOOP\obj\Debug\net8.0\ExaminationOOP.AssemblyInfoInputs.cache
+C:\Users\Khale\Documents\Desktop\Route\Exams\ExaminationOOP Sol\ExaminationOOP\obj\Debug\net8.0\ExaminationOOP.AssemblyInfo.cs
+C:\Users\Khale\Documents\Desktop\Route\Exams\ExaminationOOP Sol\ExaminationOOP\obj\Debug\net8.0\ExaminationOOP.csproj.CoreCompileInputs.cache
+C:\Users\Khale\Documents\Desktop\Route\Exams\ExaminationOOP Sol\ExaminationOOP\obj\Debug\net8.0\ExaminationOOP.dll
+C:\Users\Khale\Documents\Desktop\Route\Exams\ExaminationOOP Sol\ExaminationOOP\obj\Debug\net8.0\refint\ExaminationOOP.dll
+C:\Users\Khale\Documents\Desktop\Route\Exams\ExaminationOOP Sol\ExaminationOOP\obj\Debug\net8.0\ExaminationOOP.pdb
+C:\Users\Khale\Documents\Desktop\Route\Exams\ExaminationOOP Sol\ExaminationOOP\obj\Debug\net8.0\ExaminationOOP.genruntimeconfig.cache
+C:\Users\Khale\Documents\Desktop\Route\Exams\ExaminationOOP Sol\ExaminationOOP\obj\Debug\net8.0\ref\ExaminationOOP.dll
